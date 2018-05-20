@@ -1,0 +1,15 @@
+one:
+  follower: renzo
+  followed: diana
+
+two:
+  follower: carlo
+  followed: renzo
+
+three:
+  follower: renzo
+  followed: carlo
+
+four:
+  follower: michael
+  followed: renzo
